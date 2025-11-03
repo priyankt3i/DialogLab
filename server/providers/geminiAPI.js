@@ -9,8 +9,8 @@ let CURRENT_API_KEY;
 let genAI = null;
 
 const GEMINI_MODELS = {          
-  FLASH_LITE: "gemini-2.0-flash-lite",
-  FLASH: "gemini-2.0-flash",
+  FLASH_LITE: "gemini-2.5-flash-lite",
+  FLASH: "gemini-2.5-flash",
 };
 
 // Default model

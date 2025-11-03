@@ -33,7 +33,7 @@ API_KEY_LLM=your-openai-api-key
 # Defaults (optional)
 DEFAULT_LLM_PROVIDER=gemini   # or openai
 DEFAULT_OPENAI_MODEL=gpt-4
-DEFAULT_GEMINI_MODEL=gemini-2.0-flash
+DEFAULT_GEMINI_MODEL=gemini-2.5-flash
 
 # Text-to-Speech (optional)
 TTS_API_KEY=your-google-tts-api-key
